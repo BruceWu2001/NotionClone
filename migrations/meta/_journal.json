@@ -8,6 +8,20 @@
       "when": 1703137598383,
       "tag": "0000_daily_cargill",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703140788186,
+      "tag": "0001_smart_molecule_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703141646117,
+      "tag": "0002_overjoyed_stardust",
+      "breakpoints": true
     }
   ]
 }
